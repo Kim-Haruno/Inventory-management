@@ -147,7 +147,3 @@ Inventory management/
 
 ---
 
-## License & Academic Attribution
-
-Developed for **Eduvos Assessment (Module Code: ITMDA3-34 / Deliverable 4)**.  
-Designed for demonstration of mobile application development, database management, and SME operational workflows.
